@@ -1,0 +1,32 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Environment files
+.env
+.venv
+venv/
+ENV/
+
+# Python egg files
+*.egg-info/
+*.egg
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# MP3 output files
+*.mp3
+
+# Log files
+*.log
+
+# IDE related files
+.vscode/
+.idea/
+
+# PyCharm specific files
+*.iml
